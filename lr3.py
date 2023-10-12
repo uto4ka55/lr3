@@ -20,6 +20,6 @@ def large_digit():
 
 try:
     number = input('введіть число: ')
-    large_digit(number)
+    large_digit()
 except:
     print('виникла помилка при введенні данних.')
